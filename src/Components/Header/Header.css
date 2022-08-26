@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px;
+    gap: 20px;
+    font-size: 17px;
+    background-color: rgb(202, 253, 119);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* position: fixed; */
+    width: 100%;
+}
+nav a{
+    color: black;
+}
+nav a:hover{
+    color: rgb(151, 194, 160);
+}

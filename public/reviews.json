@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "1",
+      "picture": "img/man-1.png",
+      "name": "Abul Mia",
+      "desc": "বোতলে পানি খাইলেই মিষ্টি মিষ্টি লাগে । ",
+      "ratting": 4
+    },
+    {
+      "_id": "2",
+      "picture": "img/man-2.jpg",
+      "name": "Jazim Al Toshok",
+      "desc": "বোতল অনেক শক্ত, আম ও পারা যায় । ",
+      "ratting": 3
+    },
+    {
+      "_id": "3",
+      "picture": "img/man-3.jpg",
+      "name": "Bappa Da",
+      "desc": "লাল পানির জন্য কিনছিলাম, এখন আমি জেলে :) ",
+      "ratting": 5
+    },
+    {
+      "_id": "4",
+      "picture": "img/man-4.png",
+      "name": "Cheka kha",
+      "desc": "সেই সেই । ",
+      "ratting": 3
+    },
+    {
+      "_id": "5",
+      "picture": "img/man-5.jpg",
+      "name": "Tota Mia",
+      "desc": "বোতলে পানি ঠান্ডা থাকে , কি মজা । ",
+      "ratting": 2
+    },
+    {
+      "_id": "6",
+      "picture": "img/man-6.jpg",
+      "name": "Ulla Kha",
+      "desc": "বোতল বোতল বোতল বোতল বোতল বোতল । ",
+      "ratting": 5
+    }
+  ]
